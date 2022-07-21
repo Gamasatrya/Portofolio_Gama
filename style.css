@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* navbar */
+.nav-link{
+    margin-left: 2em;
+}
+
+/* font */
+body{
+    font-family: Poppins;
+    background-color: black;
+    color: white;
+    
+}
+.judul{
+    padding-top: 15em;
+    padding-left: 9em;
+}
+h1{
+    padding-left: 2em;
+    font-weight: 900;
+}
+p{
+    padding-left: 6em;
+}
+h2{
+    font-family: Poppins;
+    padding-left: 8em;
+    transform: translate(0, -400%); 
+    font-weight: bold;
+    font-size: 50px;
+}
+h3{
+    padding-bottom: 40px;
+    padding-left: 2em;
+    font-weight: bold;
+    font-size: 50px;
+}
+h4{
+    padding-top: 20px;
+}
+h5{
+    padding-top: 20px;
+}
+.judul-skill{
+    margin-left: 400px;
+    padding-top: 90px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.about1{
+    margin-left: 9em;
+    transform: translate(0, -150%);
+}
+.skill{
+    font-size: 50px;
+    margin-top: 60px;
+    margin-right: 270px;
+    text-align: center;
+    font-weight: bold;
+}
+.skill1{
+    margin-right: 50px;
+    padding-top: 20px;
+    font-size: 25px;
+}
+.ket1{
+    padding-top: 40px;
+}
+.skill2{
+    font-size: 25px;
+    margin-right: 170px;
+    padding-top: 80px;
+}
+.ket2{
+    margin-right: 80px;
+    padding-top: 20px;
+}
+.skill3{
+    font-size: 25px;
+    margin-right: 50px;
+    padding-top: 90px;
+}
+.skill4{
+    font-size: 25px;
+    margin-right: 170px;
+    padding-top: 80px;
+}
+.ket4{
+    margin-right: 80px;
+    padding-top: 20px;
+}
+
+/* foto */
+.foto1{
+    height: 100%;
+    
+   
+}
+.komunikasi{
+    height: 290px;
+}
+.teambuilding{
+    height: 390px;
+    padding-left: 90px;
+}
+.analisis{
+    height: 390px;
+    padding-top: 40px;
+}
+.work{
+    height: 400px;
+}
+
+.about{
+    height: 600px;
+    background-color: black;
+    padding-left: 200px;
+}
+.gamakotak{
+    height: 200px;
+    width: 200px;
+    position: relative;
+
+}
+.border1{
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    position: relative;
+    border-width: 4px;
+    border-color: yellow;
+    left: 20px;
+    top: 250px;
+}
+.pencetan{
+    margin-left: 150px;
+}
+.tombol{
+    margin-left: 250px;
+    margin-bottom: 150px;
+}
+.row{
+    text-align: center;
+    padding-top: 90px;
+}
+#footer{
+    padding-top: 150px;
+}
